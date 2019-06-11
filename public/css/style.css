@@ -1,0 +1,12 @@
+.logo {
+  width: 130px;
+  margin: auto;
+}
+.btn {
+  width: 40%;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
